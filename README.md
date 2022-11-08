@@ -1,6 +1,6 @@
 - Hi, I’m @DunnFCOB
-- Currently in the financial operations industry, and I’m interested in Web Development. 
-- At the moment, I'm going through The Odin Project to learn full stack development.
+- Currently work in finance Ops/DevOps with experience developing solutions using Python, Alteryx, JIRA.
+- Self-learning some web dev on the side.
 
 <!---
 DunnFCOB/DunnFCOB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
