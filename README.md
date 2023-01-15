@@ -1,5 +1,5 @@
 - Hi, I’m @DunnFCOB
-- Currently work in finance Ops/DevOps with experience developing solutions using Python, Alteryx, JIRA.
+- Currently work in financial operations, with experience developing solutions using Python, and Alteryx while utilizing systems such as Jira and  Bitbucket.
 - Self-learning some web dev on the side.
 
 <!---
